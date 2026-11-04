@@ -111,7 +111,7 @@ git clone https://github.com/VinutaNaik27/OpenCV-Learning.git
 Navigate to the Phase 2 directory:
 
 ```bash
-cd OpenCV_Learning/Phase-2-Image-Processing
+cd OpenCV-Learning/Phase-2-Image-Processing
 ```
 
 ## How to Run
@@ -182,7 +182,5 @@ Through this phase, I learned:
 ## Author
 
 **Vinuta Naik**
-
 GitHub: [VinutaNaik27](https://github.com/VinutaNaik27)
-
 Repository: [OpenCV-Learning](https://github.com/VinutaNaik27/OpenCV-Learning)
