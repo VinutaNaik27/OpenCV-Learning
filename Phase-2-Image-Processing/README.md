@@ -105,7 +105,7 @@ pip install opencv-python
 ### 3. Clone the Repository
 
 ```bash
-git clone https://github.com/VinutaNaik27/OpenCV_Learning.git
+git clone https://github.com/VinutaNaik27/OpenCV-Learning.git
 ```
 
 Navigate to the Phase 2 directory:
