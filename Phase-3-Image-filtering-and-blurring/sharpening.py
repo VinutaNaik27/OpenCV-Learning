@@ -11,5 +11,5 @@ cv2.imshow("blurred image",image)
 cv2.imshow("Sharpened image",sharpened)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
-print("Original image:", image is None)
+
 
